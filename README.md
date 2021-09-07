@@ -6,4 +6,4 @@
 
 ![Murat Çiçek's GitHub stats](https://github-readme-stats.vercel.app/api?username=murat1347&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murat1347&layout=compact&theme=dark&hide=css,html&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murat1347&layout=compact&theme=dark&hide=css,html,php&langs_count=10)
