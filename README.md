@@ -1,7 +1,7 @@
 # Hi there. My name is Murat Çiçek
-- I am Software Engineer.
-- I am graduated Computer Technologies and Information Systems at Trakya University.
-- I learning Python,Django,Flutter,Java & Kotlin
+- I am a Software Engineer.
+- I graduated Computer Technologies and Information Systems at Trakya University.
+- I learn .net core and ReactJs
 
 
 ![Murat Çiçek's GitHub stats](https://github-readme-stats.vercel.app/api?username=murat1347&show_icons=true&theme=dark)
